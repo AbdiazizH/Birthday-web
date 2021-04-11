@@ -18,3 +18,4 @@ The application is compatible with devices of all sizes and all OS's, and consis
 - HTML
 - Css
 - Javascript
+## Author
