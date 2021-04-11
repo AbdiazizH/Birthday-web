@@ -12,3 +12,4 @@
 ## Demo
 Here is a working live demo : 
 ## Mobile support
+The application is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
