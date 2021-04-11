@@ -19,3 +19,4 @@ The application is compatible with devices of all sizes and all OS's, and consis
 - Css
 - Javascript
 ## Author
+Abdiaziz Hussein Mohamed
