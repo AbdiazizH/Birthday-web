@@ -20,3 +20,4 @@ The application is compatible with devices of all sizes and all OS's, and consis
 - Javascript
 ## Author
 Abdiaziz Hussein Mohamed
+## License
